@@ -1,16 +1,13 @@
 ## Hi there 👋
+Aqui estão algumas ideias para você começar:
 
-<!--
-**igormp15/igormp15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando no colegio padre claudio morelli
+- 🌱 Atualmente estou aprendendo programação em javascript
+- 👯 Procuro colaborar em compartilhar meus código
+- 🤔 Estou procurando ajuda com pessoas que também sabem programar
+- 💬 Pergunte-me sobre programação
+- 📫 Como entrar em contato comigo:por gmail
+- ⚡ Curiosidade: fico maior parte do tempo na rua
+- 👺
+- [bikeperifa](https://www.portalwheeling.com.br/bicicleta/c/1)
+- ![](https://media1.tenor.com/m/Q_fcx7MniP4AAAAd/athletico-athletico-paranaense.gif)
